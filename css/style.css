@@ -1351,8 +1351,11 @@ footer p {
 	-ms-flex: 1;
 	flex: 1;
 }
-span{
+.red{
 	color: #d30516;
+}
+span{
+	color: gray;
 }
 
 .project-inner h3{
